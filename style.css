@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url('https://media.istockphoto.com/photos/blue-sky-with-bright-sun-and-clouds-picture-id1007768414?b=1&k=20&m=1007768414&s=170667a&w=0&h=9ijRGKZYLQJz5GO0ZwisNhraxPRY3wUFWe2wjCfS-Uc=');
+    height: 100vh;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: top center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;    
+    background-color: black;
+}
+.img
+{
+    font-size: xx-large;   
+    text-shadow: 2px 4px rgba(0,0,0,0.9); 
+}
+
+
+.appmain
+{
+    text-align: center;
+    margin: 100px auto;
+    width: 50vh;
+    background-color: rgba(240,248,255,0.6);
+    padding: 20px;
+}
+
+.appmain >*{
+    margin-bottom: 20px;
+}
+.inputBox
+{
+    width: 100%;
+    background-color: rgba(255,255,255,0.6);
+    border: none;
+    outline: none;
+    color: #582233;
+    font: 1.2rem;
+    height: 50px;
+    border-radius: 5px;
+    padding: 0px 10px;
+    text-align: center;
+}
+.inputBox:focus
+{
+    background-color: white;
+    color: black;
+
+    font-weight: bold;
+}
+
+.details
+{
+    color: #582233;
+
+    padding: 20px;
+    line-height: 2rem;
+    border-radius: 10px;
+    background-color: rgba(240,248,255,0.6);
+    height: 50vh;
+    display: none;
+}
+.location
+{
+    font-weight: bold;
+}
+.weather
+{
+    padding: 20px ;
+}
+
+.temp
+{
+    font-size: 50pt;
+    font-weight: bold;
+    margin: 20px 0px;
+    text-shadow: 2px 4px rgba(0,0,0, 0.6);
+}
+.min-max,.short
+{
+    font-size: 18pt;
+    font-weight: 400;
+    margin-top: 7px;
+}
+.short
+{
+    font-size: 18pt;
+    font-weight: 400;
+    margin-top: 25px;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
