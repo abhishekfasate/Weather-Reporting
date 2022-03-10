@@ -1,3 +1,5 @@
+![Screenshot (126)](https://user-images.githubusercontent.com/86162533/157639833-12884161-0011-4eed-ba78-1f54a531b251.png)
+
 
 # Basic Overview
 Weather-Forecast app is what the title says it is. It's a quick, simple weather app. The features include the basics, including forecasts, current temperature
